@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/l2-self/","created":"2025-11-26T18:14:01.669+09:00"}
+{"dg-publish":true,"permalink":"/l2-self/","noteIcon":""}
 ---
 
 
