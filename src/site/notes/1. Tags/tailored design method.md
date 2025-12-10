@@ -23,5 +23,5 @@ Several recommendations for instrument development and implementation based on T
 • Pretest the survey and revise accordingly 
 
 >[!note] related to:
->[[descriptive non-intervention research\|descriptive non-intervention research]], [[longitudinal survey design\|longitudinal survey design]]
+>[[1. Tags/descriptive non-intervention research\|descriptive non-intervention research]], [[1. Tags/longitudinal survey design\|longitudinal survey design]]
 >

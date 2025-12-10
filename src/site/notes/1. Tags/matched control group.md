@@ -9,7 +9,7 @@ The randomized matched control group design is presented below (M stands for mat
 
 **Notes**
 
-This especially strong design is similar to the [[1. Tags/randomized posttest control group\|randomized posttest control group]] design but distinguished by the use of [[matching\|matching]] prior to random assignment of subjects. A researcher may choose this design if the sample size is too small (perhaps less than 40 per group) to reasonably ensure group comparability after random assignment. (Suter 2012, pg. 9)
+This especially strong design is similar to the [[1. Tags/randomized posttest control group\|randomized posttest control group]] design but distinguished by the use of [[1. Tags/matching\|matching]] prior to random assignment of subjects. A researcher may choose this design if the sample size is too small (perhaps less than 40 per group) to reasonably ensure group comparability after random assignment. (Suter 2012, pg. 9)
 
 Subjects are first rank ordered on a variable closely related to the posttest. Then one of the two highest (the two forming a matched pair) is randomly assigned to T or C, and the remaining participant is assigned to the other group. The next highest matched pair is similarly assigned, and this continues until the lowest two matched subjects are assigned randomly. (pg. 9)
 

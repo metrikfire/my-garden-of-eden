@@ -7,12 +7,12 @@
 3. [[1. Tags/placebos\|placebos]]
 
 >[!note] Related to:
->[[external validity\|external validity]], [[internal validity\|internal validity]], [[1. Tags/research design\|research design]]
+>[[1. Tags/external validity\|external validity]], [[1. Tags/internal validity\|internal validity]], [[1. Tags/research design\|research design]]
 >[[2. Indexes/📚ETEC500, Chapter 7\|📚ETEC500, Chapter 7]]
 
 
 >[!note] See also:
->[[artifacts\|artifacts]], [[instrumentation\|instrumentation]], [[1. Tags/confound\|confound]]
+>[[1. Tags/artifacts\|artifacts]], [[instrumentation\|instrumentation]], [[1. Tags/confound\|confound]]
 >
 
 

@@ -13,7 +13,7 @@ T Post
 C Post 
 Notice the absence of the symbol R, which you will recall refers to random assignment. That is **why the design is referred to as static, meaning “inactive, passive, or intact.** ” **There is no active movement of subjects into groups, as the random assignment procedure would require**. With this design, typically one group is located (already intact) and given some type of treatment, while another similar group is located to function as an intact comparison. (Suter 2012, Ch. 10, pg. 12)
 
-Weak preexperimental designs can be greatly improved by the technique of [[matching\|matching]], and as such would be called [[1. Tags/quasi-experimental research\|quasi-experimental research]] designs, as explained later in this chapter.
+Weak preexperimental designs can be greatly improved by the technique of [[1. Tags/matching\|matching]], and as such would be called [[1. Tags/quasi-experimental research\|quasi-experimental research]] designs, as explained later in this chapter.
 
 >[!notes] Related to
 >[[pretest-posttest design\|pretest-posttest design]]

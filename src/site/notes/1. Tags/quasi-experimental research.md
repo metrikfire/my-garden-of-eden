@@ -9,7 +9,7 @@ Quasi-experimental design: A research design that incorporates a quasi-independe
 
  Quasi-experimental designs lack the critical feature of random assignment, but they are still useful for (cautiously) investigating cause and effect. (Suter 2012, pg. 3)
 
-Weak [[1. Tags/preexperimental design\|preexperimental design]] can be greatly improved by the technique of [[matching\|matching]], and as such would be called quasi-experimental designs, as explained later in this chapter (Suter 2012, pg. 13)
+Weak [[1. Tags/preexperimental design\|preexperimental design]] can be greatly improved by the technique of [[1. Tags/matching\|matching]], and as such would be called quasi-experimental designs, as explained later in this chapter (Suter 2012, pg. 13)
 
 A quasi-experimental design incorporates an intervention, but it lacks the critical element of random assignment to groups. (Suter, 2012, pg. 21)
 
