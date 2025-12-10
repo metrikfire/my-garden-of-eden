@@ -3,6 +3,8 @@
 ---
 
 
-# Welcome to Melissa's digital garden
+# This is a digital garden.
+### A digital garden is an online space where you can collect and develop your ideas over time, similar to a personal wiki or a notebook. 
 
-Please refer to the links for more details
+This specific garden is an extension of Melissa's work in the ed-tech space. Please refer to <a href="https://www.hellomeishang.io">the journal</a> for more personal work.
+
