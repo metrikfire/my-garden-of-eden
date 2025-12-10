@@ -4,7 +4,7 @@
 
 
 # This is a digital garden.
-### A digital garden is an online space where you can collect and develop your ideas over time, similar to a personal wiki or a notebook. 
+## A digital garden is an online space where you can collect and develop your ideas over time, similar to a personal wiki or a notebook. - Google Gemini, 2025
 
 This specific garden is an extension of Melissa's work in the ed-tech space. Please refer to <a href="https://www.hellomeishang.io">the journal</a> for more personal work.
 
