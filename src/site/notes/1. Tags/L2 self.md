@@ -4,10 +4,7 @@
 
 
 **Definition**:
-The ideal L2-self is part of the L2 motivational self-system (L2MSS) which was initially theorized
-by Zoltan Dörnyei (2005). The ideal L2-self acts as a powerful motivator as a language learner
-tries to address the difference between their current self and future ideal L2-self (Dörnyei,
-2009). 
+The ideal L2-self is part of the L2 motivational self-system (L2MSS) which was initially theorized by Zoltan Dörnyei (2005). The ideal L2-self acts as a powerful motivator as a language learner tries to address the difference between their current self and future ideal L2-self (Dörnyei, 2009). 
 (<a href="https://www.teachingenglish.org.uk/sites/teacheng/files/2023-06/WEBINAR%20HANDOUT%20JUNE%208%20Motivating%20learners_the%20L2%20ideal%20self.pdf">Source</a>)
 
 **The L2MSS consists of 3 components:**
