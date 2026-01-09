@@ -20,7 +20,7 @@ Griffin, M. (2021). _Metacognition: Teaching Children to Think_. Independent Pub
 
 -> Teachers facilitate metacognitive learning. In his book Thinking, Fast and Slow, Daniel Kahneman (2011) contrasts superficial surface thinking with the deep thinking of metacognition. He says, “you should not let yourself believe whatever comes into your mind. A thought is not thinking, so intuitions should be thought through. The mind has a tendency for lazy thinking.”
 
--> Metacognition is about having autonomous control over one’s progress. This sense of self-determination is one of the strongest predictors of success in anything.
+-> Metacognition is about having autonomous control over one’s progress. This sense of [[1. Tags/self determination theory\|self-determination]] is one of the strongest predictors of success in anything.
 
 -> In addition to this perception of personal control, indicators of autonomous learning include willingness, volition, choice, experimentation, self-initiation, exploration of ideas, and persistence.
 #### page 25
@@ -133,7 +133,7 @@ How does this compare to what I have done before?*
 
 #### page 89
 
--> Flow represents the highest metacognitive style of learning that deliberately directs, regulates, and reflects on challenges, resulting in improvement and increased ability. Flow is pure intrinsic motivation. As such, autotelic students who seek and experience flow are less dependent on the external rewards and threats that are sometimes used and required to keep others motivated.
+-> [[flow state\|flow state]] represents the highest metacognitive style of learning that deliberately directs, regulates, and reflects on challenges, resulting in improvement and increased ability. Flow is pure intrinsic motivation. As such, autotelic students who seek and experience flow are less dependent on the external rewards and threats that are sometimes used and required to keep others motivated.
 { #c38772}
 
 

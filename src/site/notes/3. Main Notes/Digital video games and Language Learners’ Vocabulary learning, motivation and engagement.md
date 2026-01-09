@@ -57,7 +57,7 @@ https://doi.org/10.54855/callej.252616
 
 -> Finally, they mentioned knowledge  acquisition, skill development, and transfer for learning outcomes. 
 
--> In their framework for gamifying  educational experiences, they emphasized the importance of game elements such as points,  badges, and leaderboards and motivational factors such as autonomy, relatedness, and  competence.
+-> In their framework for gamifying  educational experiences, they emphasized the importance of game elements such as points,  badges, and leaderboards and motivational factors such as [[1. Tags/self determination theory\| autonomy, relatedness, and  competence]]. 
 #### page 6  (research design)
 -> Specifically, the study aimed to understand  how digital games can enhance teachers' motivation, engagement, and vocabulary teaching  outcomes.
 
