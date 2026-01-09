@@ -6,4 +6,4 @@ Chapter 7 of Introduction to Educational Research by W. Suter goes into depth wi
 
 
 > [!NOTE] Related to
-> [[2. Indexes/ETEC 500 Research Methodologies\|ETEC 500 Research Methodologies]]
+> [[3. Clusters/ETEC 500 Research Methodologies\|ETEC 500 Research Methodologies]]

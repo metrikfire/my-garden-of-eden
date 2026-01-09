@@ -154,4 +154,4 @@ What about dissecting “A rolling stone gathers no moss”? The independent var
 
 
 > [!NOTE] Related to
-> [[2. Indexes/ETEC 500 Research Methodologies\|ETEC 500 Research Methodologies]]
+> [[3. Clusters/ETEC 500 Research Methodologies\|ETEC 500 Research Methodologies]]
