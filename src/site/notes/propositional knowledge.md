@@ -10,5 +10,5 @@ Also known as **Declarative knowledge**, is a type of knowledge that can be expr
 
 
 > [!NOTE] Related to
-> [[ETEC530, What is this thing called Knowledge?\|ETEC530, What is this thing called Knowledge?]]
+> [[2. Indexes/ETEC530, What is this thing called Knowledge?\|ETEC530, What is this thing called Knowledge?]]
 > 

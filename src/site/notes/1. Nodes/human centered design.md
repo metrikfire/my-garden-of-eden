@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/1-nodes/human-centered-design/","noteIcon":""}
+---
+
+**Definition**
+**Human-centered design** (**HCD**, also **human-centered design**, as used in [ISO](https://en.wikipedia.org/wiki/ISO "ISO")standards) is an approach to [problem-solving](https://en.wikipedia.org/wiki/Problem_solving "Problem solving") commonly used in process, [product](https://en.wikipedia.org/wiki/Product_design "Product design"), [service](https://en.wikipedia.org/wiki/Service_design "Service design") and [system design](https://en.wikipedia.org/wiki/Systems_design "Systems design"), management, and engineering frameworks that develops solutions to problems by involving the human perspective in all steps of the problem-solving process. Human involvement typically takes place in initially observing the problem within context, brainstorming, conceptualizing, developing concepts and implementing the solution. (Source: Wiki)
+
+Human-centered design builds upon participatory action research by moving beyond participants' involvement and producing solutions to problems rather than solely documenting them. Initial stages usually revolve around immersion, observing, and contextual framing— in which innovators immerse themselves in the problem and community. Subsequent stages may then focus on community brainstorming, modeling and prototyping and implementation in community spaces.Human-centered design can be seen as a philosophy that focuses on analyzing the needs of the user through extensive research. User-oriented design is capable of driving innovation and encourages the practice of iterative design, which can create small improvements in existing products and newer products, thus giving room for the potential to transform markets. 
