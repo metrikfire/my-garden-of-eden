@@ -10,6 +10,5 @@ Deep procedural knowledge vs superficial: deep procedural knowledge is associate
 
 Deeply tied with [[propositional knowledge\|propositional knowledge]]
 
----
 
 [^1]: Notes from Wikipedia. Verify with further reading.

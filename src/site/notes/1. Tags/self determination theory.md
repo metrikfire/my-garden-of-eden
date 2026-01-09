@@ -8,4 +8,4 @@
 
 
 > [!NOTE] mentioned in
-> [[3. Main Notes/S. Zhou, Gamifying Language Education 2024\|S. Zhou, Gamifying Language Education 2024]]
+> [[3. Artifacts/S. Zhou, Gamifying Language Education 2024\|S. Zhou, Gamifying Language Education 2024]]
