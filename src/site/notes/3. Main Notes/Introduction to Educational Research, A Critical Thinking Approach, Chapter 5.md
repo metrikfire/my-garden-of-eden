@@ -11,7 +11,7 @@
 # 1. Questions / Prompts
 #### page number 3 
 **What is a construct?**
-*See [[constructs\|constructs]]*
+*See [[1. Tags/constructs\|constructs]]*
 
 
 #### pg. 8
