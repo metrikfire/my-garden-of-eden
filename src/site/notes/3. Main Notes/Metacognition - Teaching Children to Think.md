@@ -4,7 +4,7 @@
 
 
 > [!NOTE] **related to**: 
-> [[1. Tags/metacognition\|metacognition]], [[flow state\|flow state]], [[gamification\|gamification]], [[critical thinking\|critical thinking]]
+> [[1. Tags/metacognition\|metacognition]], [[1. Tags/flow state\|flow state]], [[gamification\|gamification]], [[critical thinking\|critical thinking]]
 
 # 1. Review
 Griffin writes this self published think piece about actively utilizing meta-cognitive strategies in class [[#^f30a89]], insisting that regardless of whether if you are subconciously employing meta cognition in your class, it is imperative to be able to name these processes. 
@@ -133,7 +133,7 @@ How does this compare to what I have done before?*
 
 #### page 89
 
--> [[flow state\|flow state]] represents the highest metacognitive style of learning that deliberately directs, regulates, and reflects on challenges, resulting in improvement and increased ability. Flow is pure intrinsic motivation. As such, autotelic students who seek and experience flow are less dependent on the external rewards and threats that are sometimes used and required to keep others motivated.
+-> [[1. Tags/flow state\|flow state]] represents the highest metacognitive style of learning that deliberately directs, regulates, and reflects on challenges, resulting in improvement and increased ability. Flow is pure intrinsic motivation. As such, autotelic students who seek and experience flow are less dependent on the external rewards and threats that are sometimes used and required to keep others motivated.
 { #c38772}
 
 
