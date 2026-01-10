@@ -12,6 +12,6 @@
 
 
 >[!note] related to:
->[[1. Nodes/common biases in research design\|common biases in research design]]
+>[[common biases in research design\|common biases in research design]]
 >[[4. Artifacts/Intro to Research Methodologies, Ch 7\|Intro to Research Methodologies, Ch 7]]
 
