@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-artifacts/intro-to-research-methodologies-ch-5/","tags":["etec500"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/4-artifacts/intro-to-research-methodologies-ch-5/","noteIcon":""}
 ---
 
 >[!note] related to:
