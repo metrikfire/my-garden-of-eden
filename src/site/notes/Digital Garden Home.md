@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden-home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-
-
-![digital garden ID.jpg](/img/user/z.%20Image%20Bank%20%F0%9F%8F%A6/digital%20garden%20ID.jpg)
-
+[![garden of eden.png](/img/user/9.%20Image%20Bank%20%F0%9F%8F%A6/garden%20of%20eden.png)
 # How to use the digital garden,
 
 This garden functions similarly to a wiki, designed to be highly retrievable and optimized for connecting nodes of thought. 

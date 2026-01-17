@@ -11,7 +11,7 @@ There are three essential features of JTB:
 Most philosophers agree that 1 and 2 are correct or valid, but 3 leaves a lot of room for ambiguity. Thus posited by the [[1. Nodes/Gettier’s problem\|Gettier’s problem]] which reveals how all 3 criterion can be met and still have no mean when it comes to "having" or "gained" knowledge.
 
 > [!NOTE] Related to
-> [[2. Indexes/ETEC530, What is this thing called Knowledge?\|ETEC530, What is this thing called Knowledge?]]
+> [[2. Indexes/What is this thing called Knowledge, Ch 1-6\|What is this thing called Knowledge, Ch 1-6]]
 
 [^1]: Justification involves the reasons why someone holds a belief that one *should* hold based on one's current evidence. (Wikipedia, 2025)
 	

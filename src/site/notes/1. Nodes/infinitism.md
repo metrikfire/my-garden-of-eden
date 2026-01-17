@@ -29,4 +29,4 @@ And so on **without termination** and **without looping back**.
 
 
 > [!NOTE] Related to
-> [[2. Indexes/ETEC530, What is this thing called Knowledge?\|ETEC530, What is this thing called Knowledge?]]
+> [[2. Indexes/What is this thing called Knowledge, Ch 1-6\|What is this thing called Knowledge, Ch 1-6]]
