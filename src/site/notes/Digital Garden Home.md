@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/digital-garden-home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-[![garden of eden.png](/img/user/9.%20Image%20Bank%20%F0%9F%8F%A6/garden%20of%20eden.png)
+![](https://www.hellomeishang.io/wp-content/uploads/2026/01/garden-of-eden-scaled.png)
+
 # How to use the digital garden,
 
 This garden functions similarly to a wiki, designed to be highly retrievable and optimized for connecting nodes of thought. 
