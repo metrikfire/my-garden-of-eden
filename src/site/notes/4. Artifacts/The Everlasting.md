@@ -17,3 +17,5 @@ A knight bound to her abusively ambitious queen is stuck in a never-ending time 
 
 **Characterization**: There are some really interesting characterizations in this novel. In fact, its probably the best thing about this novel. The devices used to flesh out these characters creates a vivid image, truly engaging the reader's pathos. Refer to linked mentions to see devices used 
 
+**Themes**: imperialism and it’s effects, patriotic indoctrination, xenophobia, intersectional feminism
+
