@@ -4,7 +4,7 @@
 
 
 > [!NOTE] In-note tags
-> [[1. Nodes/gamification in EFL\|gamification in EFL]], [[digital textbooks\|digital textbooks]], [[languge learning\|languge learning]]
+> [[gamification in EFL\|gamification in EFL]], [[digital textbooks\|digital textbooks]], [[languge learning\|languge learning]]
 
 
 # 1. Source Material

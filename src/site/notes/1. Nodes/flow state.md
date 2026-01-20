@@ -8,4 +8,4 @@
 
 
 > [!NOTE] related to
-> [[1. Nodes/metacognition\|metacognition]], [[1. Nodes/self determination theory\|self determination theory]]
+> [[metacognition\|metacognition]], [[1. Nodes/self determination theory\|self determination theory]]

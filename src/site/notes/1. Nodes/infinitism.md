@@ -5,7 +5,7 @@
 **Description**
 Infinitism is a potential solution to the problem of [[1. Nodes/Infinite Regress\|Infinite Regress]]. Contrasts with [[foundationalism\|foundationalism]] and [[1. Nodes/coherentism\|coherentism]] as part of Agrippa's Trilemma. 
 
-Infinitism posits that it is acceptable for a belief to be [[1. Nodes/justified true belief\|justified]] by an infinite chain of reasons and that there is no "end" or base belief that justifies the core belief. It states that the human ability to grasp the infinity of reasons is a limitation in and of itself, thus infinitism should be a perfectly acceptable justification for a true belief. 
+Infinitism posits that it is acceptable for a belief to be [[1. Nodes/justification\|justified]] by an infinite chain of reasons and that there is no "end" or base belief that justifies the core belief. It states that the human ability to grasp the infinity of reasons is a limitation in and of itself, thus infinitism should be a perfectly acceptable justification for a true belief. 
 
 An issue with the concept of infinitism is that it may be overly complex and simultaneously dismissive while foundationalist approaches might look for something more fundamental and "universal". 
 
@@ -29,4 +29,4 @@ And so on **without termination** and **without looping back**.
 
 
 > [!NOTE] Related to
-> [[2. Indexes/What is this thing called Knowledge, Ch 1-6\|What is this thing called Knowledge, Ch 1-6]]
+> [[4. Artifacts/What is this thing called Knowledge, Ch 1-6\|What is this thing called Knowledge, Ch 1-6]]

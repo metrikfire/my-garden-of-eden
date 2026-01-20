@@ -3,7 +3,7 @@
 ---
 
 **Description**
-Coherentism is a theory of epistemic [[1. Nodes/justified true belief\|justification]]. It implies that for a belief to be justified it must belong to a coherent system of beliefs. For a system of beliefs to be coherent, the beliefs that make up that system must “cohere” with one another. Typically, this coherence is taken to involve three components: logical consistency, explanatory relations, and various inductive (non-explanatory) relations.
+Coherentism is a theory of epistemic [[1. Nodes/justification\|justification]]. It implies that for a belief to be justified it must belong to a coherent system of beliefs. For a system of beliefs to be coherent, the beliefs that make up that system must “cohere” with one another. Typically, this coherence is taken to involve three components: logical consistency, explanatory relations, and various inductive (non-explanatory) relations.
 *Source*: https://iep.utm.edu/coherentism-in-epistemology/
 
 In this way, coherentism posits that the core belief may support a belief that in turn supports itself the core belief. The issue with coherentism then, occurs when subjected to external world stimuli and how that might influence or alter the circular nature of coherentism.
@@ -39,4 +39,4 @@ No single cue is decisive, but together they form a coherent interpretation.
 *OpenAI, 2026*
 
 > [!NOTE] Related to
-> [[2. Indexes/What is this thing called Knowledge, Ch 1-6\|What is this thing called Knowledge, Ch 1-6]]
+> [[4. Artifacts/What is this thing called Knowledge, Ch 1-6\|What is this thing called Knowledge, Ch 1-6]]

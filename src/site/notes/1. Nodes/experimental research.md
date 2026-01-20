@@ -9,4 +9,4 @@ Experimental research: Research involving an independent variable–a manipulati
 Three types of experimental research designs are covered: [[1. Nodes/true experimental research\|true experimental research]], [[1. Nodes/quasi-experimental research\|quasi-experimental research]], and [[1. Nodes/single subject experimental design\|single subject experimental design]].
 
 >[!note]related to
->[[4. Artifacts/Intro to Research Methodologies, Ch 10\|Intro to Research Methodologies, Ch 10]]
+>[[4. Artifacts/Intro to Research Methodologies, Ch 10\|Intro to Research Methodologies, Ch 10]], [[1. Nodes/research design\|research design]]

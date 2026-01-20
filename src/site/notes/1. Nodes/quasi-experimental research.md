@@ -22,6 +22,5 @@ Quasi-experimental designs in research involve a manipulation (or an interventio
  Quasi-experimental designs incorporate treatments or interventions, but they lack the key element of random assignment to groups. This characteristic seriously compromises control in these designs. (pg. 41)
 
 >[!note] Related to:
->[[1. Nodes/time series design\|time series design]], [[1. Nodes/Counterbalanced quasi-experimental design\|Counterbalanced quasi-experimental design]], [[1. Nodes/single subject experimental design\|single subject experimental design]]
-> [[4. Artifacts/Intro to Research Methodologies, Ch 10\|Intro to Research Methodologies, Ch 10]],
-:
+> [[4. Artifacts/Intro to Research Methodologies, Ch 10\|Intro to Research Methodologies, Ch 10]], [[1. Nodes/research design\|research design]]
+
