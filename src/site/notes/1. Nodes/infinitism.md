@@ -3,7 +3,7 @@
 ---
 
 **Description**
-Infinitism is a potential solution to the problem of [[1. Nodes/Infinite Regress\|Infinite Regress]]. Contrasts with [[1. Nodes/foundationalism\|foundationalism]] and [[1. Nodes/coherentism\|coherentism]] as part of Agrippa's Trilemma. 
+Infinitism is a potential solution to the problem of [[1. Nodes/infinite regress\|infinite regress]]. Contrasts with [[1. Nodes/foundationalism\|foundationalism]] and [[1. Nodes/coherentism\|coherentism]] as part of Agrippa's Trilemma. 
 
 Infinitism posits that it is acceptable for a belief to be [[1. Nodes/justification\|justified]] by an infinite chain of reasons and that there is no "end" or base belief that justifies the core belief. It states that the human ability to grasp the infinity of reasons is a limitation in and of itself, thus infinitism should be a perfectly acceptable justification for a true belief. 
 

@@ -3,7 +3,7 @@
 ---
 
 **Description**
-the epistemic account of knowledge that claims that knowledge can be gained through the senses. Prone to misleading perceptual impressions. Related to the [[argument from illusion\|argument from illusion]] account of knowledge and also an umbrella term for [[1. Nodes/indirect realism\|indirect realism]].
+the epistemic account of knowledge that claims that knowledge can be gained through the senses. Prone to misleading perceptual impressions. Related to the [[1. Nodes/argument from illusion\|argument from illusion]] account of knowledge and also an umbrella term for [[1. Nodes/indirect realism\|indirect realism]].
 
 
 **Annotated notes**
