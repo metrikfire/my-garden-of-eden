@@ -10,4 +10,4 @@ A primary quality is a feature of an object that the object has, independently o
 shape of an object vs color of the object
 
 > [!NOTE] Related to
-> [[What is this thing called Knowledge, Ch 7-9\|What is this thing called Knowledge, Ch 7-9]]
+> [[4. Artifacts/What is this thing called Knowledge, Ch 7-9\|What is this thing called Knowledge, Ch 7-9]]

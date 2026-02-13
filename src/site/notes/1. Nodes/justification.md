@@ -8,4 +8,7 @@ _Epistemic_ justification (from _episteme,_ the Greek word for knowledge) is the
 Because of its evaluative role, justification is often used synonymously with [[rationality\|rationality]]. There are, however, many types of rationality, some of which are not about a belief’s epistemic status and some of which are not about beliefs at all. So, while it is intuitive to say a justified belief is a rational belief, it is also intuitive to say that a _person_ is rational for holding a _justified_ _belief_. This article focuses on theories of epistemic justification and sets aside their relationship to rationality.
 *Source: <a href="https://iep.utm.edu/epi-just/">Internet Encyclopedia of Philosophy, 2026</a>
 
-**Notes**
+
+> [!NOTE] Related to
+> [[4. Artifacts/What is this thing called Knowledge, Ch 1-6\|What is this thing called Knowledge, Ch 1-6]]
+

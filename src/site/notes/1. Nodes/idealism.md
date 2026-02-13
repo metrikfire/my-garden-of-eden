@@ -10,3 +10,7 @@ The view which denies that there is an external world independent of our experie
 4. **Response to Skepticism**: Idealism addresses the problem of the external world by asserting that our knowledge comes from perceptions, which are real in their own right.
 
 As a sub-category of idealism, [[1. Nodes/transcendental idealism\|transcendental idealism]] softens the blow by positing that an external world does exist (we can't be possibly that self involved) and that our perceptual experiences are responses to an external world, even if we are not directly acquainted with this world in perceptual experience (a parallel universe?)
+
+
+> [!NOTE] Related to
+> [[4. Artifacts/What is this thing called Knowledge, Ch 7-9\|What is this thing called Knowledge, Ch 7-9]]

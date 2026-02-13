@@ -11,4 +11,4 @@ Consider VR/AR
 
 
 > [!NOTE] Related to
-> [[What is this thing called Knowledge, Ch 7-9\|What is this thing called Knowledge, Ch 7-9]]
+> [[4. Artifacts/What is this thing called Knowledge, Ch 7-9\|What is this thing called Knowledge, Ch 7-9]]
