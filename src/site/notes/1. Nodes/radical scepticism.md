@@ -21,4 +21,4 @@ holds that it is impossible to know anything much at all about the world around 
 
 
 > [!NOTE] Related to
-> [[What is this thing called Knowledge, Ch 11-20\|What is this thing called Knowledge, Ch 11-20]]
+> [[4. Artifacts/What is this thing called Knowledge, Ch 11-20\|What is this thing called Knowledge, Ch 11-20]]

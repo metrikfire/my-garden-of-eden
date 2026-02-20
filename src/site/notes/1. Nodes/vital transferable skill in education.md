@@ -8,5 +8,5 @@ Pritchard claims that within education, having a strong intellectual character, 
 > The point is that it seems that what we really want from a good educational system, from a purely epistemic point of view, is ultimately a way of developing intellectual character and thus intellectual virtue.
 
 
-> [!NOTE] Mentioned in
-> [[What is this thing called Knowledge, Ch 11-20\|What is this thing called Knowledge, Ch 11-20]]
+> [!NOTE] Part of
+> [[4. Artifacts/What is this thing called Knowledge, Ch 11-20\|What is this thing called Knowledge, Ch 11-20]]

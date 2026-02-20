@@ -7,3 +7,6 @@
 # Book chapters
 [[4. Artifacts/What is this thing called Knowledge, Ch 1-6\|What is this thing called Knowledge, Ch 1-6]]
 [[4. Artifacts/What is this thing called Knowledge, Ch 7-9\|What is this thing called Knowledge, Ch 7-9]]
+[[4. Artifacts/What is this thing called Knowledge, Ch 11-20\|What is this thing called Knowledge, Ch 11-20]]
+
+[[4. Artifacts/Constructivist Theory Perspectives, Ch 1 - 3\|Constructivist Theory Perspectives, Ch 1 - 3]]

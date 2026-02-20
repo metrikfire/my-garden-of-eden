@@ -10,5 +10,5 @@ the epistemic account of knowledge that claims that knowledge can be gained thro
 Consider VR/AR
 
 
-> [!NOTE] Related to
+> [!NOTE] Part of
 > [[4. Artifacts/What is this thing called Knowledge, Ch 7-9\|What is this thing called Knowledge, Ch 7-9]]

@@ -12,5 +12,5 @@ The view which denies that there is an external world independent of our experie
 As a sub-category of idealism, [[1. Nodes/transcendental idealism\|transcendental idealism]] softens the blow by positing that an external world does exist (we can't be possibly that self involved) and that our perceptual experiences are responses to an external world, even if we are not directly acquainted with this world in perceptual experience (a parallel universe?)
 
 
-> [!NOTE] Related to
+> [!NOTE] Part of
 > [[4. Artifacts/What is this thing called Knowledge, Ch 7-9\|What is this thing called Knowledge, Ch 7-9]]

@@ -32,9 +32,42 @@ In parallel, the characters’ personal histories reveal their internal epistemi
 Ultimately, Annihilation asks the audience to embrace a profound form of [[epistemological humility\|epistemological humility]]. The knowledge which gives way to transformation, and understanding is no longer grounded in mastery or explanation, but in acceptance of [[radical uncertainty\|radical uncertainty]].
 
 **Discussion Questions:**
-1. How do we hold up epistemic reliability when the environmental conditions for [[reliabilism 1\|reliabilism 1]] are hostile?
+1. How do we hold up epistemic reliability when the environmental conditions for [[1. Nodes/reliabilism\|reliabilism]] are hostile?
 2. What kind of [[1. Nodes/epistemic virtue\|epistemic virtue]]s are critical for most efficacious reliabilism?
 3. How does experiential knowledge shape reliabilism?
 **---**
 
 **Note**: The review has been checked for epistemological validity through ChatGPT.
+
+## Vantage Points Discussion
+
+**Citation  
+J. Angelo Corlett (2007) *Analyzing Social Knowledge, Social Epistemology, 21*:3, 231-247, DOI: 10.1080/02691720701674049
+
+I chose this article primarily because in my work context, social knowledge is an ever-present force which is known to nebulously dictate critical learning junctures throughout a young person's educational experience.
+
+**Summary**
+
+Corlett distinguishes random "collectives" merely as groups rather than autonomous, decision-making entities or _conglomerates_ that can be said to possess knowledge. In particular, Corlett makes an example of a group of television watchers who enjoy the same T.V show, versus an institution that is in agreement with their fiscal policies and impacts (Corlett, pg. 232). Corlett goes on to deconstruct the argument that such institutions might be known to possess knowledge by running it through a battery of epistemological tests that question said institution's epistemic rigor. Corlett surmises that rather than an analysis of specific institutions or deconstruction of institutional existentialism, the article merely sets forth the conditions required for what constitutes **[[collective knowledge\|collective knowledge]]**. Which is, [[collective belief\|collective belief]], truth and justification (Corlett, pg. 244). In the end, Corlett concludes that what makes belief, acceptance, justification and knowledge collective is that they are the results of human decision-makers related to one another in groups that represent the groups’ interests—even though the groups are artificial entities (pg. 245).
+
+**Response**
+
+Below is a flattened hierarchy of what comprises social knowledge based on Corlett's model:
+
+`SOCIAL KNOWLEDGE ├── 1. Proper Group (Conglomerate) │ ├── 2. Collective Belief (Degree-based) │ ├── 3. Collective Acceptance (Higher-order endorsement) │ ├── 4. Truth (Non-accidental) │ └── 5. Justification │ ├── Coherence ├── Reliability └── Epistemic Responsibility ├── Intentionality ├── Voluntariness ├── Open-mindedness ├── Reflective evaluation └── Limited epistemic luck`
+
+Corlett's parameters for what constitutes a collective is interesting to me in the sense that it does not actually take into consideration how groups coalesce into an autonomous, belief-sharing entity, rather as a pre-established entity that might have seemingly manifested at will. While the Agrippan trilemma is mentioned in regards to Coherentism justifying the collective's beliefs, the structural problem of how and why the collective came to be formed remains unaddressed. 
+
+Though it seems an important point to leave out of the equation, Corlett does argue that a conglomerate knows *p* at a particular time to the extent that: (a) its members accept _p_ at that time; (b) _p_ is true at that time; (c) the group is justified in believing _p_ at that time (_tn_), which entails that the group is epistemically responsible in forming and accepting _p_ at that time in light of any [[1. Nodes/epistemic luck\|epistemic luck]] that might obtain in the group’s doxastic circumstance (pg. 234). In this way, Corlett locks the collective knowledge into a point in time rather than depicting the conglomerate as an unchanging entity that relies in epistemic luck to hold any knowledge. Corlett also imparts the recursive nature of social knowledge, encapsluated aptly in this Platonic quote:
+
+> "But, Cratylus, I have long been surprised at my own wisdom—and doubtful of it too. That’s why I think it’s necessary to keep investigating whatever I say, since self-deception is the worst thing of all … Therefore, I think we have to turn back frequently to what we’ve already said, in order to test it by looking at it “backwards and forwards simultaneously” …
+
+Thus, the article's lack of concern for how a conglomerate comes into existence can be understood as a tangential topic, keeping focused on the conditions of possession of knowledge alone regardless of how it came to be formed.
+
+**Discussion**
+
+Some points that I thought I'd like to query in regards to Corlett's social knowledge conditions are
+
+1. What are the parameters of a conglomerate? As in does it reach nationalistic levels? In this case, if the governing body of a nation is considered a conglomerate, does that mean its citizens are required to be in alignment with its collective belief and or collective acceptance?
+    
+2. Corlett ascribes blameworthiness as part of epistemic responsibility, what does this imply in a practical sense? If an entire collective is to "blame" for failing to meet standards of epistemic virtue or falling into sceptical fallibilism, or even acting in bad faith, can a collective hold itself responsible? If so, how?

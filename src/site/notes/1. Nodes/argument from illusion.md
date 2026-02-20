@@ -12,5 +12,5 @@ The "Argument from Illusion" is a philosophical concept under the [[1. Nodes/per
 In essence, the argument highlights the indirect nature of our knowledge of the world, suggesting that we might never fully access reality as it is. 
 
 
-> [!NOTE] Related to
+> [!NOTE] Part of
 > [[4. Artifacts/What is this thing called Knowledge, Ch 7-9\|What is this thing called Knowledge, Ch 7-9]]]

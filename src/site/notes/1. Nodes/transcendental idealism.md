@@ -8,5 +8,5 @@ Primarily prescribed by Immanuel Kant, who states that *while* we can't have dir
 This means our experiences are shaped by inherent cognitive frameworks. 
 
 
-> [!NOTE] Related to
+> [!NOTE] Part of
 > [[4. Artifacts/What is this thing called Knowledge, Ch 7-9\|What is this thing called Knowledge, Ch 7-9]]

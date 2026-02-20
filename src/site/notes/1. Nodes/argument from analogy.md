@@ -12,5 +12,5 @@ Although initially persuasive, the argument from analogy runs into problems on c
 Suppose I see someone writhing in agony on the ground before me. Do I really need to make an inference in order to know that he is in pain? Can’t I just see, directly, that he is in pain?  At first pass, this proposal might look like mere **[[1. Nodes/dogmatic argument\|dogmatism]]**, but notice that this sort of view is structurally very similar to the **[[direct realism\|direct realism]]** as regards [[1. Nodes/perceptual knowledge\|perceptual knowledge]] that we looked at in Chapter 7.”   - Pritchard, Ch. 18, pg. 197
 
 
-> [!NOTE] Related to
-> [[What is this thing called Knowledge, Ch 11-20\|What is this thing called Knowledge, Ch 11-20]]
+> [!NOTE] Part of
+> [[4. Artifacts/What is this thing called Knowledge, Ch 11-20\|What is this thing called Knowledge, Ch 11-20]]

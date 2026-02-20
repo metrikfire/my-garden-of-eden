@@ -6,7 +6,7 @@
 The closure principle posits that 
 `If I know one proposition, and I know that this proposition entails a second proposition, then I know the second proposition as well.”`
 
-“...what the sceptic’s use of the closure principle does is make knowledge of normal ‘everyday’ propositions (i.e. the sort of propositions which we would usually regard ourselves as unproblematically knowing) contingent upon knowledge of the denials of sceptical hypotheses. ”
+“...what the sceptic’s use of the closure principle does is make knowledge of normal ‘everyday’ propositions (i.e. the sort of propositions which we would usually regard ourselves as unproblematically knowing) contingent upon knowledge of the denials of [[sceptical hypothesis\|sceptical hypothesis]]. ”
 
 > **(From Chappie)** Pritchard is explaining that the sceptic uses the closure principle to argue that our ability to know ordinary, everyday propositions depends on already knowing that radical sceptical scenarios are false, thereby putting pressure on our intuitive claims to everyday knowledge.
 
@@ -16,4 +16,4 @@ The closure principle posits that
 
 
 > [!NOTE] Related to
-> [[What is this thing called Knowledge, Ch 11-20\|What is this thing called Knowledge, Ch 11-20]]
+> [[4. Artifacts/What is this thing called Knowledge, Ch 11-20\|What is this thing called Knowledge, Ch 11-20]]
