@@ -6,6 +6,9 @@
 **Description**
 A primary quality is a feature of an object that the object has, independently of anyone perceiving it. The secondary quality of an object is dependent upon the perception of the agent. Also critical to the concept of [[1. Nodes/empiricism\|empiricism]] in philosophy.
 
+The theory’ is usually’ combined with a very’ distinctive view about colours, and about other “[[1. Nodes/primary and secondary qualities\|secondary]] qualities”, one that seems contrary to our common sense view about colour.
+<a href="https://ebrary.net/292179/philosophy/indirect_realism">Source: Ebrary.net</a>
+
 **Example**
 shape of an object vs color of the object
 

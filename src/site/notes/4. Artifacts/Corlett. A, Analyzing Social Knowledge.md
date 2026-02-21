@@ -19,7 +19,7 @@ a conglomerate knows p at a particular time to the extent that:
 ```
 
 **Collective Belief**
-In Corlett’s treatise, [[collective belief\|collective belief]] is defined as a collective (not a conglomerate???) Sincerely assenting to a proposition without ambiguity. In the following framework Corlett establishes what constitutes a collective belief
+In Corlett’s treatise, [[1. Nodes/collective belief\|collective belief]] is defined as a collective (not a conglomerate???) Sincerely assenting to a proposition without ambiguity. In the following framework Corlett establishes what constitutes a collective belief
 ```
 a collective belief that:
 p admits of degrees of strength, contingent on the number of group members who believe p at a particular time, and the extent to which they believe it, and why. 
