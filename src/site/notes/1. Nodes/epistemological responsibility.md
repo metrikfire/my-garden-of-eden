@@ -13,4 +13,4 @@ Epistemological responsibility refers to the ethical duty individuals have to en
 * https://lifestyle.sustainability-directory.com/term/epistemological-responsibility/
 
 > [!NOTE] Mentioned in 
-> [[2. Indexes/ETEC 530 Constructivist Strategies for E-learning\|ETEC 530 Constructivist Strategies for E-learning]]
+> [[3. Clusters/ETEC 530 Constructivist Strategies for E-learning\|ETEC 530 Constructivist Strategies for E-learning]]

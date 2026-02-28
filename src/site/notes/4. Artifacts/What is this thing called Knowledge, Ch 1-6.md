@@ -28,5 +28,5 @@ It underpins not only philosophical inquiry but also institutionalized knowledge
 If we assume that the order of adjectives is a grammatical rule, we might ask why is it considered as such. The justification might follow as: "for clearer communication" -- which if we were to press further, might follow as 'it's what we have learned and are used to', reflecting usage or convention. If we continue to clarify the justification for its convention claims, it might follow in a circular fashion, back to "for clearer communication". In this way, a lot of what we consider "correct" or "knowledgeable" in regards to English grammar might be arbitrary rules that might have arisen due to contextual needs and may not hold up to epistemological scrutiny.
 
 > [!NOTE] Part of
-> [[2. Indexes/ETEC 530 Constructivist Strategies for E-learning\|ETEC 530 Constructivist Strategies for E-learning]]
+> [[3. Clusters/ETEC 530 Constructivist Strategies for E-learning\|ETEC 530 Constructivist Strategies for E-learning]]
 

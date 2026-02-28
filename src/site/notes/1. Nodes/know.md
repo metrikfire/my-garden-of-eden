@@ -130,4 +130,4 @@ To answer your question directly:
 Thank you, Chappie.
 
 > [!NOTE] Related to
-> [[2. Indexes/ETEC 530 Constructivist Strategies for E-learning\|ETEC 530 Constructivist Strategies for E-learning]], [[4. Artifacts/What is this thing called Knowledge, Ch 1-6\|What is this thing called Knowledge, Ch 1-6]], [[4. Artifacts/What is this thing called Knowledge, Ch 7-9\|What is this thing called Knowledge, Ch 7-9]], [[4. Artifacts/What is this thing called Knowledge, Ch 11-20\|What is this thing called Knowledge, Ch 11-20]]
+> [[3. Clusters/ETEC 530 Constructivist Strategies for E-learning\|ETEC 530 Constructivist Strategies for E-learning]], [[4. Artifacts/What is this thing called Knowledge, Ch 1-6\|What is this thing called Knowledge, Ch 1-6]], [[4. Artifacts/What is this thing called Knowledge, Ch 7-9\|What is this thing called Knowledge, Ch 7-9]], [[4. Artifacts/What is this thing called Knowledge, Ch 11-20\|What is this thing called Knowledge, Ch 11-20]]
