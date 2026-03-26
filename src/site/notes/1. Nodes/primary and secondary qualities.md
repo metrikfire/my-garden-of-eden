@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/primary-and-secondary-qualities/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/primary-and-secondary-qualities/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/hyperbole/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/hyperbole/","tags":["#rhetoric"],"noteIcon":""}
 ---
 
 **Description**

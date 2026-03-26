@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/vital-transferable-skill-in-education/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/vital-transferable-skill-in-education/","tags":["#learning-theory"],"noteIcon":""}
 ---
 
 **Description**

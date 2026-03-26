@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/analysis-of-meanings/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/analysis-of-meanings/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

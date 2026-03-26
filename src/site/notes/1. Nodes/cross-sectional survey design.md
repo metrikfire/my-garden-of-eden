@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/cross-sectional-survey-design/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/cross-sectional-survey-design/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 **Definition**:

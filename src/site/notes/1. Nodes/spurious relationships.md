@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/spurious-relationships/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/spurious-relationships/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 **Definition**:

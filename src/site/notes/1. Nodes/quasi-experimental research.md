@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/quasi-experimental-research/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/quasi-experimental-research/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 **Definition**

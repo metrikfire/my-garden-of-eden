@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/mortality-in-research/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/mortality-in-research/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/second-order-coupling/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/second-order-coupling/","tags":["#learning-theory"],"noteIcon":""}
 ---
 
 **Description**

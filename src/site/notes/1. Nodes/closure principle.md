@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/closure-principle/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/closure-principle/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Definition**

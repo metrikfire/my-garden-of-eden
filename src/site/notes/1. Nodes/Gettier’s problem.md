@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/gettier-s-problem/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/gettier-s-problem/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

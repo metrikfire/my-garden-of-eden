@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/argument-from-illusion/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/argument-from-illusion/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

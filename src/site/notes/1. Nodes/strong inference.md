@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/strong-inference/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/strong-inference/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/constructs/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/constructs/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 

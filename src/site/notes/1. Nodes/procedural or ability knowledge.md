@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/procedural-or-ability-knowledge/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/procedural-or-ability-knowledge/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Definition**

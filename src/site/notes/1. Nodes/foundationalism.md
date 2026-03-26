@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/foundationalism/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/foundationalism/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/rhetorical-question/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/rhetorical-question/","tags":["#rhetoric"],"noteIcon":""}
 ---
 
 **Description**

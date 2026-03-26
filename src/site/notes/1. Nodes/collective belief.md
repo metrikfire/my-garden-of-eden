@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/collective-belief/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/collective-belief/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

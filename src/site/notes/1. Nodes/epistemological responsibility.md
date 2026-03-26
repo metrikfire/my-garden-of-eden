@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/epistemological-responsibility/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/epistemological-responsibility/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

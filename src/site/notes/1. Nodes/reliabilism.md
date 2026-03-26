@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/reliabilism/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/reliabilism/","tags":["#epistemology"],"noteIcon":""}
 ---
 
  **Description**

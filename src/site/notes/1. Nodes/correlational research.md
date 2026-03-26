@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/correlational-research/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/correlational-research/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 **Definition**

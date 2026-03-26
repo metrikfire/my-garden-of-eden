@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/interaction/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/interaction/","tags":["#pedagogical-practice"],"noteIcon":""}
 ---
 
 **Definition**

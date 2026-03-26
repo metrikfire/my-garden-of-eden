@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/dogmatic-argument/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/dogmatic-argument/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

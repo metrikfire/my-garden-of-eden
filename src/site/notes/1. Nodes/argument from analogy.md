@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/argument-from-analogy/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/argument-from-analogy/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Definition**

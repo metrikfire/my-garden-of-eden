@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/creative-engagement/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/creative-engagement/","tags":["#pedagogical-practice"],"noteIcon":""}
 ---
 
 **Description**

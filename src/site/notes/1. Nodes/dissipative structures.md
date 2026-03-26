@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/dissipative-structures/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/dissipative-structures/","tags":["#learning-theory"],"noteIcon":""}
 ---
 
 **Description**

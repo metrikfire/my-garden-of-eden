@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/agrippa-s-trilemma/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/agrippa-s-trilemma/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 

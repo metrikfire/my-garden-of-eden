@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/problem-of-other-minds/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/problem-of-other-minds/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Definition**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/representation-in-learning/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/representation-in-learning/","tags":["#epistemology","#learning-theory"],"noteIcon":""}
 ---
 
 **Description**

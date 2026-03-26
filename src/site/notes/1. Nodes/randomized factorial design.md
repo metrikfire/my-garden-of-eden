@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/randomized-factorial-design/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/randomized-factorial-design/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 **Definition**

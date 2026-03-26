@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/irony/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/irony/","tags":["#rhetoric"],"noteIcon":""}
 ---
 
 **Definition**

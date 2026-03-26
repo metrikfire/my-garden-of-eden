@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/indirect-realism/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/indirect-realism/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

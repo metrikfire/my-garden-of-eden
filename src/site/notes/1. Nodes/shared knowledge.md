@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/shared-knowledge/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/shared-knowledge/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/scaffolding/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/scaffolding/","tags":["#learning-theory","#pedagogical-practice"],"noteIcon":""}
 ---
 
 **Description**

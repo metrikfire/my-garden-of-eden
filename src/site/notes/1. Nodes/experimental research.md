@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/experimental-research/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/experimental-research/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 **Definition**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/justified-true-belief/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/justified-true-belief/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 

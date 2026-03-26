@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/self-determination-theory/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/self-determination-theory/","tags":["#learning-theory","#game-based-learning"],"noteIcon":""}
 ---
 
 

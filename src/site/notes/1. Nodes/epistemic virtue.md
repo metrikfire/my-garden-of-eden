@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/epistemic-virtue/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/epistemic-virtue/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

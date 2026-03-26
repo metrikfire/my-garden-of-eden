@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/epistemic-rationality/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/epistemic-rationality/","tags":["#epistemology"],"noteIcon":""}
 ---
 
   **Description**

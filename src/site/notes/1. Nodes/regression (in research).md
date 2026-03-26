@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/regression-in-research/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/regression-in-research/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 

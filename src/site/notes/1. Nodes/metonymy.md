@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/metonymy/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/metonymy/","tags":["#rhetoric"],"noteIcon":""}
 ---
 
 **Description**

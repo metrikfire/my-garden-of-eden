@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/external-validity/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/external-validity/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/instrumental-rationality/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/instrumental-rationality/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

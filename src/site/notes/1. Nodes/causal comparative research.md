@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/causal-comparative-research/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/causal-comparative-research/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/coherentism/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/coherentism/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

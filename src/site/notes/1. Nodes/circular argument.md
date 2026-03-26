@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/circular-argument/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/circular-argument/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

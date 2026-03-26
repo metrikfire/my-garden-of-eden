@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/random-assignment/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/random-assignment/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 (from Google Gemini)

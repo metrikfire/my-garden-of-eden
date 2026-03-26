@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/propositional-knowledge/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/propositional-knowledge/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/counterbalanced-quasi-experimental-design/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/counterbalanced-quasi-experimental-design/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 **Definition**:

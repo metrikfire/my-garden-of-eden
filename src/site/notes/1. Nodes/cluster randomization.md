@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/cluster-randomization/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/cluster-randomization/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 

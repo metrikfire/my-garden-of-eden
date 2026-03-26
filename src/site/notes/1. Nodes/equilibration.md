@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/equilibration/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/equilibration/","tags":["#learning-theory"],"noteIcon":""}
 ---
 
 **Description**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/know/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/know/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Definition**

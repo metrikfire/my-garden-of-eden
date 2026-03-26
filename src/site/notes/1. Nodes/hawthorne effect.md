@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/hawthorne-effect/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/hawthorne-effect/","tags":["#research-methods"],"noteIcon":""}
 ---
 
  **Definition**: A [[common biases in research design\|common biases in research design]] stemming from a treatment's unintended effects related to special attention, novelty, or similar treatment co-occurrences that influences research participants' behavior. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/constructivism/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/constructivism/","tags":["#learning-theory","#epistemology"],"noteIcon":""}
 ---
 
 **Description**

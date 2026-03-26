@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/radical-scepticism/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/radical-scepticism/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 

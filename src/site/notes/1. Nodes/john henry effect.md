@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/john-henry-effect/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/john-henry-effect/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 **Definition:**  

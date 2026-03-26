@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/research-design/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/research-design/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 **Description**

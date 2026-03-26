@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/transcendental-idealism/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/transcendental-idealism/","tags":["#epistemology"],"noteIcon":""}
 ---
 
  **Description**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/human-centered-design/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/human-centered-design/","tags":["#pedagogical-practice"],"noteIcon":""}
 ---
 
 **Definition**

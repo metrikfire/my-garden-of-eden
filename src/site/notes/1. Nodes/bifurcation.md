@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/bifurcation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/bifurcation/","tags":["#learning-theory"],"noteIcon":""}
 ---
 
 **Description**

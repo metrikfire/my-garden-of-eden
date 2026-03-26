@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/environment-in-learning/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/environment-in-learning/","tags":["#learning-theory"],"noteIcon":""}
 ---
 
 **Description**

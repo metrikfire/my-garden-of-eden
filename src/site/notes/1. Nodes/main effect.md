@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/main-effect/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/main-effect/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 **Definition**

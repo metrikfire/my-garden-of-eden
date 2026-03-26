@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/tailored-design-method/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/tailored-design-method/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 **Definition**: - 

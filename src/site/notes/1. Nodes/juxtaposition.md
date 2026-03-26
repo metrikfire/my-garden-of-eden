@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/juxtaposition/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/juxtaposition/","tags":["#rhetoric"],"noteIcon":""}
 ---
 
 **Description**

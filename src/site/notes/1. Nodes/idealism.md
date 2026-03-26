@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/idealism/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/idealism/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

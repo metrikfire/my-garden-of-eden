@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/behaviorism/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/behaviorism/","tags":["#learning-theory"],"noteIcon":""}
 ---
 
 **Description**

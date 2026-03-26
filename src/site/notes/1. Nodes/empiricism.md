@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/empiricism/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/empiricism/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

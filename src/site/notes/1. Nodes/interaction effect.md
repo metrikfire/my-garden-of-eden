@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/interaction-effect/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/interaction-effect/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 **Definition**:

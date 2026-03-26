@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/time-series-design/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/time-series-design/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 **Definition**

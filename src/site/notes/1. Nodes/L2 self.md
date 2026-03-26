@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/l2-self/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/l2-self/","tags":["#sla-theory"],"noteIcon":""}
 ---
 
 

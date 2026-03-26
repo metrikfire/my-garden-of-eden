@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/perceptual-knowledge/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/perceptual-knowledge/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

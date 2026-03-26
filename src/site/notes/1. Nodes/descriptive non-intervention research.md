@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/descriptive-non-intervention-research/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/descriptive-non-intervention-research/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 **Definition**

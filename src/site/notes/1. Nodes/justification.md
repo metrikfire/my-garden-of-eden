@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/justification/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/justification/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/randomized-pretest-posttest-control-group/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/randomized-pretest-posttest-control-group/","tags":["#research-methods"],"noteIcon":""}
 ---
 
 **Definition**

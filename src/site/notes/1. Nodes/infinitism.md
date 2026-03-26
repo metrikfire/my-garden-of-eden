@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/infinitism/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/infinitism/","tags":["#epistemology"],"noteIcon":""}
 ---
 
 **Description**

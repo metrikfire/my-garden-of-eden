@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-nodes/humor-in-prose/","noteIcon":""}
+{"dg-publish":true,"permalink":"/1-nodes/humor-in-prose/","tags":["#rhetoric"],"noteIcon":""}
 ---
 
 
